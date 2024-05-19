@@ -39,7 +39,7 @@ The application is implemented in Java and includes a main class, `Main.java`, w
     ```
 2. Navigate to the project directory:
     ```sh
-    cd WolfSheepCabbageSolver
+    cd WolfSheepCabbageSolver/src
     ```
 3. Compile the Java file:
     ```sh
